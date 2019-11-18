@@ -1,0 +1,48 @@
+header {
+  background-image: url(../images/blue_sky_blossom_copy.jpeg);
+  background-size: cover;
+  text-align: center;
+  padding: 20px 0px 20px 0px;
+}
+
+@font-face {
+    font-family: "Public Sans";
+    src: url("../fonts/public-sans-v1.006/PublicSans-Light.ttf");
+  }
+
+  html *
+  {
+     font-family: "Public Sans";
+  }
+
+ul {
+  background-color: #f0f3f7;
+  padding: 10px 0px 10px 0px;
+  align-items: baseline;
+}
+
+li {
+     display: inline;
+     padding: 10px 80px 10px 80px;
+     font-family: "Public Sans";
+   }
+
+body {
+  background-color: white;
+}
+
+
+div {
+    padding: 0px 40px 0px 40px;
+}
+
+h1 {
+  padding: 20px 0px 0px 0px;
+  font-family: "Public Sans";
+  font-size: 40px;
+  color: white;
+}
+
+h2 {
+  padding: 15px 0px 0px 0px;
+}
